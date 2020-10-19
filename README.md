@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## management Project
+
+이 프로젝트는 Reac 공부를 위해 만들어 졌습니다.
+
+
+This project was bootstrapped with [Create React App]
+(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
